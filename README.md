@@ -1,6 +1,6 @@
-# Hi, I'm Lisa 👋
+# Hi, I'm Lisa 
 
-I'm a Head of Product & Commercial based in Tokyo, working at the intersection of product strategy, marketplaces, commerce, and AI.
+I'm a trilingual (JPN, ENG, GER, a tiny bit of ITA) Head of Product & Commercial based in Tokyo, working at the intersection of product strategy, marketplaces, commerce, and AI.
 
 For most of my career, I've focused on helping traditional industries adopt digital ways of working. From complex B2B ecosystems to large-scale commercial organizations, I've led products that connect technology, business strategy, and operational reality.
 
